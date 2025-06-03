@@ -1,0 +1,27 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+ios/Pods/
+.flutter-plugins
+.flutter-plugins-dependencies
+.melos_tool/
+generated_plugin_registrant.dart
+
+# VS Code
+.vscode/
+
+# Android/IntelliJ
+*.iml
+.gradle/
+.idea/
+local.properties
+
+# macOS
+.DS_Store
+
+# Firebase config (optional - if you keep API keys locally)
+google-services.json
+GoogleService-Info.plist
