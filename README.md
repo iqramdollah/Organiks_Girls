@@ -1,4 +1,8 @@
-# 🏐 Organiks Girls Netball Team Management App
+<p align="center">
+  <img src="assets/logo.jpg" alt="Organiks Girls Logo" width="120"/>
+</p>
+
+# Organiks Girls Netball Team Management App
 
 A full-featured mobile application built for the **Organiks Girls**, a real community netball team in Malaysia. Replaces fragmented tools (WhatsApp groups, spreadsheets, manual records) with a single, role-based platform for players, coaches, and team managers.
 
@@ -70,13 +74,6 @@ Development was split into 3 sprints: scheduling module → communication featur
 - Reduced average scheduling time significantly
 - Eliminated data fragmentation across multiple apps
 - Stakeholders confirmed improved coordination and performance tracking
-
----
-
-## Screenshots
-
-![Home Screen](screenshots/home.png)
-![Schedule](screenshots/schedule.png)
 
 ---
 
