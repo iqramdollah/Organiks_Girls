@@ -75,7 +75,8 @@ Development was split into 3 sprints: scheduling module → communication featur
 
 ## Screenshots
 
-> *(Add screenshots here)*
+![Home Screen](screenshots/home.png)
+![Schedule](screenshots/schedule.png)
 
 ---
 
